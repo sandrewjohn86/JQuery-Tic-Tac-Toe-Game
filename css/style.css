@@ -52,7 +52,7 @@ h1{
 }
 
 .o{
-	color: green;
+	color: green !important;
 }
 
 .x{
